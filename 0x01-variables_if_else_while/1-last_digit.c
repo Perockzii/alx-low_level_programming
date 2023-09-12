@@ -2,9 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry function
- * Result: always return 0
-*/
+ * main - Entry point
+ *
+ * Description: Assign a random number
+ *
+ * Return: Always return 0 (Success)
+ */
 int main(void)
 {
 	int n;
